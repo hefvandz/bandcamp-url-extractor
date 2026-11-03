@@ -7,6 +7,7 @@ This is a Google Apps Script project that extracts URLs from Gmail threads and s
 - Extracts Bandcamp URLs from new release emails and new purchase emails from users you follow
 - Checks for duplicates and saves unique extracted URLs to a Google Sheets spreadsheet
 - Marks email threads as processed to prevent re-processing
+- Can be scheduled to run on its own
 
 ## Usage
 
