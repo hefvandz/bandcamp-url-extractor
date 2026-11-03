@@ -1,12 +1,12 @@
 # bandcamp-url-extractor
 
-This is a Google Apps Script project that extracts URLs from Gmail threads and saves them to a Google Sheets spreadsheet. Super specific to my own workflow but has saved me hours in manually opening emails and links. Pairs well with a bulk URL opener tool.
+This is a Google Apps Script project that extracts URLs from Gmail threads and saves them to a Google Sheets spreadsheet. Super specific to my own workflow but has easily saved me days in manually opening emails and links. (32,000+ links processed and counting) Pairs well with a bulk URL opener tool.
 
 ## Features
 
 - Extracts Bandcamp URLs from new release emails and new purchase emails from users you follow
 - Checks for duplicates and saves unique extracted URLs to a Google Sheets spreadsheet
-- Mark email threads as processed to prevent re-processing
+- Marks email threads as processed to prevent re-processing
 
 ## Usage
 
